@@ -25,6 +25,4 @@ async function del (id){
 }
 
 
-
-
 module.exports= ({creat, read, update, del, readOne})
